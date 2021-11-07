@@ -1,16 +1,12 @@
-### Hi there 👋
+ ### Hi I am ***Jimmy-oss*** 👋
 
-<!--
-**jimmy-oss/jimmy-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a Passionate programmer who loves coding in both ***web development and Android🚀.***
+- 🌱 I’m currently learning *Full Stack Web Developer and Android*.
+- 👯 I’m looking to collaborate on ***Youtube***.
+- 🤔 I’m looking for help with Any Tech Related stuff such as ***Flutter Designing in both Web and Android***.
+- 💬 You Can Ask me Anything about ***Tech Related stuff***.
+- 📫 How to reach me: jimmynjonge51@gmail.com.
+- 😄 Pronouns: he/his.
+- ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
