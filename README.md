@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with Any New Tech Related stuff such as ***Flutter Designing in both Web and Android***.
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
 - 📫 How to reach me: jimmynjonge51@gmail.com.
-- 😄 Pronouns: he/his.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
  
 
