@@ -39,13 +39,5 @@
 ![](https://img.shields.io/badge/Android-informational?style=flat&logo=android&labelColor=181818&logoColor=white&color=050F2C)
 <br/><br/>
 
-### Social media accounts 📫
-
-<p align="left" color:"#933ded";>
-<a href="https://twitter.com/jimmy-oss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jimmy-jammie-793610219//?msgControlName=reply_to_sender&msgConversationId=793610219&msgOverlay=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
-<a href="https://web.facebook.com/jimmyjammie/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jimmy-oss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_thoughts_in_frame_" height="30" width="40" /></a>
-
  
 
