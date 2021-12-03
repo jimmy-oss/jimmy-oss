@@ -27,7 +27,7 @@
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:active](https://img.shields.io/badge/social--life-active-aqua)](https://img.shields.io/badge/social--life-active-aqua)
 <h4>Check out <a href="https://https://creative-portfolio-website.netlify.app/" target="_blank">My PORTFOLIO</a></h4>
-<h4><a href="https://github.com/jimmy-oss/photon">Top Kenyan Contributors</a></h4>
+<h4><a href="https://github.com/jimmy-oss/photon">Project Contributions</a></h4>
 
 ## Technology & Tools
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
@@ -43,8 +43,8 @@
 
 <p align="left" color:"#933ded";>
 <a href="https://twitter.com/jimmy-oss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jimmy-jammie-793610219//?msgControlName=reply_to_sender&msgConversationId=6691689121624141826&msgOverlay=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
-<a href="https://web.facebook.com/jimmy-oss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jimmy-jammie-793610219//?msgControlName=reply_to_sender&msgConversationId=793610219&msgOverlay=true" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
+<a href="https://web.facebook.com/jimmyjammie/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jimmy-oss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_thoughts_in_frame_" height="30" width="40" /></a>
 
  
