@@ -1,4 +1,4 @@
- ### Hi I am ***Jimmy-oss*** 👋
+ ### Hi I am ***Jimmy-oss*** &#129409;
 
 - 🔭 I’m a Passionate programmer who loves coding in both ***web development and Android🚀.***
 - 🌱 I’m currently learning *Full Stack Web Development, Graphics designing and Android*.
