@@ -3,7 +3,7 @@
 - 🔭 I’m a Passionate programmer who loves coding in both ***web development and Android🚀.***
 - 🌱 I’m currently learning *Full Stack Web Development, Graphics designing and Android*.
 - 💞️ I’m looking to collaborate on android projects, graphics designing projects and full stack projects
-- 🤔 I’m looking for help with Any New Tech Related stuff such as ***Flutter Designing in both Web and Android***.
+- 🤔 I’m interested with Any New Tech Related stuff such as ***Flutter Designing in both Web and Android***.
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
 - 📫 How to reach me: jimmynjonge51@gmail.com.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
