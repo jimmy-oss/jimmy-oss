@@ -2,8 +2,8 @@
 
 - 🔭 I’m a Passionate programmer who loves coding in both ***web development and Android🚀.***
 - 🌱 I’m currently learning *Full Stack Web Development, Graphics designing and Android*.
-- 💞️ I’m looking to collaborate on Tech Related field in web development projects.
-- 🤔 I’m interested with Any New Tech Related stuff such as ***UI/UX designs both Web and Android***.
+- 💞️ I’m currently interested into project-based collaborating with a Team "Alone we can do so little; together we can do so much."
+- 🤔 I’m interested with Any New Tech Related stuff such as ***UI/UX designs in both Web and Android***.
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
 - 📫 How to reach me: jimmynjonge51@gmail.com.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
