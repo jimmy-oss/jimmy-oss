@@ -12,6 +12,11 @@
 | ![jimmy-oss GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jimmy-oss&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![jimmy-oss GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-oss&theme=tokyonight) |
 | --- | --- |
 <!--github stats-->
+## Contribution Graph
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jimmy-oss&theme=react-dark&hide_border=true&area=true)
+
+<br />
 
 ## #100DaysOfCode
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&column=7"/>
