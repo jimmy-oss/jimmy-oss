@@ -10,7 +10,7 @@
 - 📫 How to reach me: jimmynjonge51@gmail.com.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
 
-## #365dayschallenge
+## 👩‍💻#365dayschallenge
 | ![jimmy-oss GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jimmy-oss&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![jimmy-oss GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-oss&theme=tokyonight) |
 | --- | --- |
 <!--github stats-->
