@@ -34,7 +34,10 @@
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:active](https://img.shields.io/badge/social--life-active-aqua)](https://img.shields.io/badge/social--life-active-aqua)
 <!--<h4>Check out <a href="https://creative-portfolio-website.netlify.app/" target="_blank">My PORTFOLIO</a></h4>-->
-<h4><a href="https://github.com/jimmy-oss/photon">Project Contribution</a></h4>
+<h4>Github Collaborations</h4>
+<h4><a href="https://github.com/jimmy-oss/photon">The Photon</a></h4>
+<h4><a href="https://github.com/jimmy-oss/riverside-medical-center">Riverside Medical Centre</a></h4>
+<h4><a href="https://github.com/jimmy-oss/panther-banter">Panther-Banter</a></h4>
 
 ## Technology & Tools
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
