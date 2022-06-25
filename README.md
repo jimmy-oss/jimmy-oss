@@ -3,7 +3,7 @@
  ### Hi I am ***Jimmy-oss*** 👋  
 
 - 🔭 I’m a Passionate programmer who loves coding in both ***web development and Android🚀***
-- 🌱 I’m currently learning *Full Stack Web Development, Graphics designing and Android*.
+- 🌱 Currently I'm a *Full Stack Web Development*, and am learning *Graphics designing and Android*.
 - 💞️ I’m interested in project-based collaboration from a Team "Alone we can do so little; together we can do so much."
 - 🤔 I’m interested with Any New Tech Related stuff such as ***UI/UX designs in both Web and Android***.
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
