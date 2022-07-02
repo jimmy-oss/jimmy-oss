@@ -38,6 +38,7 @@
 <h4><a href="https://github.com/jimmy-oss/photon">The Photon</a></h4>
 <h4><a href="https://github.com/jimmy-oss/riverside-medical-center">Riverside Medical Centre</a></h4>
 <h4><a href="https://github.com/jimmy-oss/panther-banter">Panther-Banter</a></h4>
+<h4><a href="https://github.com/jimmy-oss/somo">Somo-Solutions</a></h4>
 
 ## 💼 Technology & Tools
 
