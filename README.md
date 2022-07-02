@@ -43,7 +43,7 @@
 
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&color=dd1b16)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
