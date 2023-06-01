@@ -15,19 +15,16 @@
 | --- | --- |
 
 ## 🏆#100DaysOfCode
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&column=7"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&column=8"/>
 <!--Trophies-->
 
 <img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-oss&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 <!--Most Used Languages-->
-
-
-
 [![creative:developer](https://img.shields.io/badge/creative-developer-%238D5524)](https://img.shields.io/badge/creative-developer-%238D5524)
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:active](https://img.shields.io/badge/social--life-active-aqua)](https://img.shields.io/badge/social--life-active-aqua)
-<!--<h4>Check out <a href="https://creative-portfolio-website.netlify.app/" target="_blank">My PORTFOLIO</a></h4>-->
+ 
 <h4>🤝🏼 Github Collaborations</h4>
 <h4><a href="https://github.com/jimmy-oss/photon">The Photon</a></h4>
 <h4><a href="https://github.com/jimmy-oss/riverside-medical-center">Riverside Medical Centre</a></h4>
