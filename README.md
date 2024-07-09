@@ -2,10 +2,10 @@
 
  ### Hi I am ***Jimmy-oss*** 👋  
 
-- 🔭 I’m a full stack web developer programmer whose passionate on developing modern web applications 🚀  
-- 🌱 Currently, I'm a *Full Stack Web Development*, and I'm still learning about *Graphics designing skills*.
-- 💞️ I’m interested in project-based collaboration from a Team "Alone we can do so little; together we can do so much."
-- 🤔 I’m interested with Any New Tech Related stuff such as ***UI/UX designs,AI and as much as I grow stronger I will pursue more skills such as Android***.
+- 🔭 I’m a full stack web developer who is passionate about creating modern web applications 🚀  
+- 🌱 Currently, I'm a *Full Stack Web Development*, and I'm still honing my *Graphics designing skills*.
+- 💞️ I’m interested in project-based collaboration with a Team "Alone we can do so little; together we can do so much."
+- 🤔 I’m interested in any new tech-related stuff like ***UI/UX designs,and as I progress, I aim to develop additional skills like Android***
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
 - 📫 How to reach me: jimmynjonge51@gmail.com.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
