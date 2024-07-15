@@ -5,7 +5,7 @@
 - 🔭 I’m a full stack web developer who is passionate about creating modern web applications 🚀  
 - 🌱 Currently, I'm a *Full Stack Web Development*, and I'm still honing my *Graphics designing skills*.
 - 💞️ I’m interested in project-based collaboration with a Team "Alone we can do so little; together we can do so much."
-- 🤔 I’m interested in any new tech-related stuff like ***UI/UX designs,and as I progress, I aim to develop additional skills like Android***
+- 🤔 I’m interested in any new tech-related stuff like ***UI/UX designs,and as I progress, I aim to develop additional skills like Flutter***
 - 💬 You Can Ask me Anything about ***Tech Related stuff***.
 - 📫 How to reach me: jimmynjonge51@gmail.com.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
@@ -39,7 +39,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&color=2335B142)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&color=2335B142)
 
 </br>
 
