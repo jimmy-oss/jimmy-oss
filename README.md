@@ -31,6 +31,10 @@
 <h4><a href="https://github.com/jimmy-oss/panther-banter">Panther-Banter</a></h4>
 <h4><a href="https://github.com/jimmy-oss/somo">Somo-Solutions</a></h4>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ## 💼 Technology & Tools
 
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=61DAFB)
