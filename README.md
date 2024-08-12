@@ -32,7 +32,7 @@
 <h4><a href="https://github.com/jimmy-oss/somo">Somo-Solutions</a></h4>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 ## 💼 Technology & Tools
