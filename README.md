@@ -14,8 +14,11 @@
 | ![jimmy-oss GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jimmy-oss&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![jimmy-oss GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-oss&theme=tokyonight) |
 | --- | --- |
 
-## 🏆#100DaysOfCode
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jimmy-oss&column=6)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&theme=algolia&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Joined2020,Repositories,Stars,Experience,Commits" alt="GitHub Trophies" />
+</p>
+
 
 
 <!--Trophies-->
