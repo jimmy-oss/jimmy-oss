@@ -16,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&theme=algolia&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Joined2020,Repositories,Stars,Experience,Commits" alt="GitHub Trophies" />
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&theme=algolia&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Joined2020,Repositories,Stars,Experience,Commits" alt="GitHub Trophies" />
 </p>
 
 
