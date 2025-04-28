@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
- ### Hi I am ***Jimmy-oss*** 👋  
+ ### Hi I am ***Jimmy-oss*** 👋✨ 
 
 - 🔭 I’m a full stack web developer who is passionate about creating modern web applications 🚀  
 - 🌱 Currently, I'm a *Full Stack Web Development*, and I'm still honing my *Graphics designing skills*.
@@ -14,7 +14,7 @@
 | ![jimmy-oss GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jimmy-oss&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![jimmy-oss GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-oss&theme=tokyonight) |
 | --- | --- |
 
-## 🏆 GitHub Trophies
+## 🏆#GitHub Trophies
 <p align="center">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&theme=algolia&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Joined2020,Repositories,Stars,Experience,Commits" alt="GitHub Trophies" />
 </p>
