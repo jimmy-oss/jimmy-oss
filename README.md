@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" />
 </p>
 
-<h2 align="center">Hi, I'm <span style="color:#764ba2">Jimmy-oss</span> 👋✨</h2>
+<h2 align="center">Hi, I'm <span style="color:#764ba2">Jimmyoss</span> 👋✨</h2>
 <p align="center">💻 A passionate full-stack web developer with a love for building useful things, beautiful interfaces, and clean code.</p>
 
 ---
