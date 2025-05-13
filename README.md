@@ -10,14 +10,17 @@
 - 📫 How to reach me: jimmynjonge51@gmail.com.
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be the ***Matrix AKA : Jeo***🤗
 
-## 👩‍💻#365dayschallenge
-| ![jimmy-oss GitHub Stats.](https://github-readme-stats.vercel.app/api?username=jimmy-oss&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) |  ![GitHub Streak](https://streak-stats.demolab.com/?user=jimmy-oss&theme=tokyonight)|
-| --- | --- |
+## 🚀 GitHub Activity
 
-## 🏆#GitHub Trophies
-<p align="center">
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=jimmy-oss&theme=algolia&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Joined2020,Repositories,Stars,Experience,Commits" alt="GitHub Trophies" />
-</p>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmy-oss&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-oss&layout=compact&theme=tokyonight) |
+|---|---|
+
+## 🏆 Achievements
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jimmy-oss&theme=tokyonight&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+ 
 
 
 
